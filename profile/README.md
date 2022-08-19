@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TechPenguineer/jukaGithub/main/profile/Untitled-1.png">
-  
+  [![Juka](https://raw.githubusercontent.com/TechPenguineer/jukaGithub/main/profile/Untitled-1.png)](https://jukalang.com)
+    
   <center>
   
   [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/MsKWsErzfp)
