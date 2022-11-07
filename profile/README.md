@@ -1,6 +1,6 @@
 <p align="center">
   
-  [![Juka](juka_established.png)](https://jukalang.com)
+  [![Juka](profile/juka_established.png)](https://jukalang.com)
     
   <center>
 
