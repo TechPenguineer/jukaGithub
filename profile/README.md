@@ -20,11 +20,11 @@
 
 [![Nuget](https://img.shields.io/nuget/dt/JukaCompiler)](https://www.nuget.org/packages/JukaCompiler)
 
-## Portable
+## 👨‍💻 Portable
 Juka doesn't need to be installed! That means you can run Juka in environments where you don't have admin privileges or in environments where you don't have access to a hard drive. Juka is completely standalone and doesn't require any other application or any other dependency to be installed. Run it on your Flash/Thumb Drive!
 
-## Small in Size
+## 🤏 Small in Size
 Juka is fairly small in size ~ 30 mb (depending on the OS). This means that you can put Juka on your Thumb/Flash Drive. In fact, why not put all versions of Juka on your Thumb/Flash Drive? It won't take much space anyways.
 
-## Jupyter Support
+## 🐍 Jupyter Support
 We know a lot of people love to use Jupyter Notebook/Lab. We've added an easy way to run Juka (kernel) in Jupyter. Do your data analysis in the software that you are used to!
