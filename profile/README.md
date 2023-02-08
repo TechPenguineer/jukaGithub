@@ -7,7 +7,7 @@
   [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/MsKWsErzfp)
   [![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jukalang.com)
   [![ide](https://img.shields.io/badge/ide-00aa00?style=for-the-badge&logo=ide&logoColor=white)](https://ide.jukalang.com)
-  [![lite](https://img.shields.io/badge/lite-00aa00?style=for-the-badge&logo=lite&logoColor=white)](https://litede.jukalang.com)
+  [![lite](https://img.shields.io/badge/lite-aaaa00?style=for-the-badge&logo=lite&logoColor=white)](https://lite.jukalang.com)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jukalang)
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jukalang)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jukalanguage/)
